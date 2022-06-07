@@ -1,4 +1,0 @@
-/* To find the number of shoes greater than $100 */
-select count(distinct Product_Name) as Shoes_over_100_dollars
-from nordstrom-349200.Nordstrom_shoes.Nordstrom_boots
-Where Price_Current > 100;
