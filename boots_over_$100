@@ -1,5 +1,5 @@
 /* To find the number of boots greater than $100 */
-select count(distinct Product_Name) as Boots_over_100_dollars
+Select count(distinct Product_Name) as Boots_over_100_dollars
 from nordstrom-349200.Nordstrom_shoes.Nordstrom_boots
 Where Price_Current > 100;
 
