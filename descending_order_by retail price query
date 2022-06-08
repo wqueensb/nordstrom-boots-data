@@ -1,0 +1,6 @@
+/* To arrange the brands for this table in descending order by retail price */
+select (BRAND )AS PRODUCT_BRAND, cast(PRICE_RETAIL AS STRING FORMAT '$999,999.99') AS PRICE_RETAIL
+from nordstrom-349200.Nordstrom_shoes.Nordstrom_boots
+group by BRAND, PRICE_RETAIL
+order by PRICE_RETAIL desc
+
