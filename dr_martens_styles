@@ -2,3 +2,4 @@
 select * 
 from nordstrom-349200.Nordstrom_shoes.Nordstrom_boots
 Where Brand = "Dr. Martens"; 
+
