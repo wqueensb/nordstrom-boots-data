@@ -1,0 +1,5 @@
+/* Boots with a review rating of 4 or more */
+select PRODUCT_NAME,BRAND, REVIEW_RATING AS BOOT_RATINGS
+from nordstrom-349200.Nordstrom_shoes.Nordstrom_boots
+Where REVIEW_RATING >= 4.0
+ORDER BY REVIEW_RATING DESC
