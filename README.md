@@ -13,4 +13,6 @@ I needed to quickly find the most expensive boot brand sold by Nordstrom so I or
 
 One of my favorite styles is the iconic Dr. Martens created in 1947. So I decided to create a query that would let me know the different Dr. Marten styles sold by Nordstrom.
 
+[Boots with a review rating greater than 4.0 ] 
+
 
