@@ -9,7 +9,8 @@ Wanted to find out how many boots sold by Nordstrom are over a $100. The informa
 
 I needed to quickly find the most expensive boot brand sold by Nordstrom so I organized the table in descending order. Also, I wanted my integers converted to a currency format.  
 
-[ Doc Martens ](https://github.com/wqueensb/nordstrom-boots-data/blob/main/dr_martens_styles)
+[ Doc Martens ](https://github.com/wqueensb/nordstrom-boots-data/blob/main/dr_martens_styles)[Untitled spreadsheet - Dr_Martens_Styles .csv](https://github.com/wqueensb/nordstrom-boots-data/files/8924136/Untitled.spreadsheet.-.Dr_Martens_Styles.csv)
+
 
 One of my favorite styles is the iconic Dr. Martens created in 1947. So I decided to create a query that would let me know the different Dr. Marten styles sold by Nordstrom.
 
@@ -20,3 +21,5 @@ Nordstrom sells a lot of boots so I was interested in the ones that were appreci
 [Boots with a retail price higher than the average cost](https://github.com/wqueensb/nordstrom-boots-data/commit/718ed5d33aa582779dcd50ac3b3599fba99b4fe1)
 
 To get this answer I created a CTE(Common Table Expression) to find out the average cost and compared this cost to the retail price of every boot in the table. I decided to create a CTE instead of using a subquery because it would be much easier to read and to be used again. The average retail cost is $312.77 ea.
+
+
