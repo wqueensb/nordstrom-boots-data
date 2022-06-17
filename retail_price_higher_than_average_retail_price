@@ -1,0 +1,8 @@
+/* Need to find out the boots with a higher than average cost */
+ WITH Average_Retail_Cost AS
+ (Select Avg(Price_Retail) as Average_Cost
+from nordstrom-349200.Nordstrom_shoes.Nordstrom_boots)
+SELECT Brand, Product_Name, Price_Retail
+from nordstrom-349200.Nordstrom_shoes.Nordstrom_boots, Average_Retail_Cost
+Where Price_Retail > Average_Cost
+ORDER BY Price_Retail desc
