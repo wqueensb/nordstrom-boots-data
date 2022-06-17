@@ -17,6 +17,6 @@ One of my favorite styles is the iconic Dr. Martens created in 1947. So I decide
 
 Nordstrom sells a lot of boots so I was interested in the ones that were appreciated by their customers. I selected the boots that had a rating of 4 or more and arranged the table in descending order. 
 
-[Boots with a retail price higher than the average cost]
+[Boots with a retail price higher than the average cost](https://github.com/wqueensb/nordstrom-boots-data/commit/718ed5d33aa582779dcd50ac3b3599fba99b4fe1)
 
 To get this answer I created a CTE(Common Table Expression) to find out the average cost and compared this cost to the retail price of every boot in the table. I decided to create a CTE instead of using a subquery because it would be much easier to read and to be used again.
