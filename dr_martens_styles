@@ -3,3 +3,29 @@ select *
 from nordstrom-349200.Nordstrom_shoes.Nordstrom_boots
 Where Brand = "Dr. Martens"; 
 
+
+| PRODUCT_NAME                            | DEPARTMENT | CATEGORY | SUBCATEGORY | SKU     | BRAND       | PRICE_CURRENT | PRICE_RETAIL | REVIEW_RATING | REVIEW_COUNT | COLOR |   |   |   |   |
+|-----------------------------------------|------------|----------|-------------|---------|-------------|---------------|--------------|---------------|--------------|-------|---|---|---|---|
+| Combs Tech Poly Casual Boot             | Men        | Shoes    | Boots       | 6672050 | Dr. Martens |           100 |          100 |             0 |            0 | 001   |   |   |   |   |
+| Combs Tech Combat Boot                  | Men        | Shoes    | Boots       | 6429080 | Dr. Martens |           120 |          120 |             0 |            0 | 001   |   |   |   |   |
+| 1460 Bex Smooth Plain Toe Boot          | Men        | Shoes    | Boots       | 6290700 | Dr. Martens |           160 |          160 |             0 |            0 | 020   |   |   |   |   |
+| 2976 Bex Chelsea Boot                   | Men        | Shoes    | Boots       | 6290645 | Dr. Martens |           160 |          160 |             0 |            0 | 001   |   |   |   |   |
+| 2976 Faux Fur Lined Ambassador Boot     | Men        | Shoes    | Boots       | 6429077 | Dr. Martens |           160 |          160 |             0 |            0 | 237   |   |   |   |   |
+| Tarik Recycled Nylon Utility Boot       | Men        | Shoes    | Boots       | 6429049 | Dr. Martens |           105 |          105 |             0 |            0 | 029   |   |   |   |   |
+| 2976 Valor Water Resistant Chelsea Boot | Men        | Shoes    | Boots       | 6429052 | Dr. Martens |           170 |          170 |             0 |            0 | 001   |   |   |   |   |
+| 1460 Blizzard Leather Boot              | Men        | Shoes    | Boots       | 6290876 | Dr. Martens |           170 |          170 |             0 |            0 | 200   |   |   |   |   |
+| 2976 Neighborhood Chelsea Boot          | Men        | Shoes    | Boots       | 6688333 | Dr. Martens |           310 |          310 |             0 |            0 | 001   |   |   |   |   |
+| Tarik Wyoming Boot                      | Men        | Shoes    | Boots       | 6429075 | Dr. Martens |           115 |          115 |             0 |            0 | 001   |   |   |   |   |
+| 1460 Boot                               | Men        | Shoes    | Boots       | 6667828 | Dr. Martens |           150 |          150 |             0 |            0 | 411   |   |   |   |   |
+| 1460 Ambruzzo Water Resistant Boot      | Men        | Shoes    | Boots       | 5859287 | Dr. Martens |           150 |          150 |             0 |            0 | 003   |   |   |   |   |
+| 1460 Panel Streeter Boot                | Men        | Shoes    | Boots       | 6290640 | Dr. Martens |           150 |          150 |             0 |            0 | 001   |   |   |   |   |
+| 2976 Chelsea Boot                       | Men        | Shoes    | Boots       | 6844845 | Dr. Martens |           150 |          150 |             0 |            0 | 001   |   |   |   |   |
+| Combs Tech Boot                         | Men        | Shoes    | Boots       | 5933185 | Dr. Martens |           100 |          100 |             5 |            1 | 001   |   |   |   |   |
+| 2976 Faux Fur Lined Ambassador Boot     | Men        | Shoes    | Boots       | 6429079 | Dr. Martens |           160 |          160 |             5 |            1 | 001   |   |   |   |   |
+| 1460 Combat Boot                        | Men        | Shoes    | Boots       | 6667821 | Dr. Martens |           150 |          150 |             5 |            1 | 002   |   |   |   |   |
+| 'Vintage 1460' Boot                     | Men        | Shoes    | Boots       | 4159504 | Dr. Martens |           230 |          230 |             5 |            1 | 001   |   |   |   |   |
+| Combs II Boot                           | Men        | Shoes    | Boots       | 5735111 | Dr. Martens |           105 |          105 |           2.5 |            2 | 001   |   |   |   |   |
+| '1460 Mono' Boot                        | Men        | Shoes    | Boots       | 3732347 | Dr. Martens |           150 |          150 |           4.5 |            8 | 001   |   |   |   |   |
+| '2976' Chelsea Boot                     | Men        | Shoes    | Boots       | 5437500 | Dr. Martens |           150 |          150 |           4.8 |            8 | 002   |   |   |   |   |
+| 2976 Chelsea Boot                       | Men        | Shoes    | Boots       | 6531084 | Dr. Martens |           150 |          150 |           4.6 |            8 | 003   |   |   |   |   |
+| '1460' Boot                             | Men        | Shoes    | Boots       | 3301656 | Dr. Martens |           150 |          150 |           4.3 |           36 | 006   |   |   |   |   |
