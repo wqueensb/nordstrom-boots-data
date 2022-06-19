@@ -3,5 +3,7 @@ Select count(distinct Product_Name) as Boots_over_100_dollars
 from nordstrom-349200.Nordstrom_shoes.Nordstrom_boots
 Where Price_Current > 100;
 
-Row.         Boots_over_100_dollars
- 1                 738
+
+| Boots_over_100_dollars |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|------------------------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|                    738 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
