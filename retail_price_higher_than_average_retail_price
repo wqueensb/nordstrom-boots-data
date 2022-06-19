@@ -6,3 +6,507 @@ SELECT Brand, Product_Name, Price_Retail
 from nordstrom-349200.Nordstrom_shoes.Nordstrom_boots, Average_Retail_Cost
 Where Price_Retail > Average_Cost
 ORDER BY Price_Retail desc
+
+
+| Brand               | Product_Name                                       | Price_Retail |   |   |
+|---------------------|----------------------------------------------------|--------------|---|---|
+| Christian Louboutin | Morgan Fleur Crystal Embellished Boot              |         4895 |   |   |
+| Christian Louboutin | Stage Platform Over the Knee Boot                  |         2695 |   |   |
+| Christian Louboutin | Morgan Faux Calf Hair Boot                         |         2395 |   |   |
+| Christian Louboutin | Stage Platform Lace-Up Boot                        |         2395 |   |   |
+| Rick Owens          | Beatle Turbo Cyclops Chelsea Boot                  |         2265 |   |   |
+| Fendi               | Force Shearling Lined Suede Boot                   |         1790 |   |   |
+| Rick Owens          | Bozo Tractor Lace-Up Boot                          |         1775 |   |   |
+| Christian Louboutin | Roadirik Spike Boot                                |         1595 |   |   |
+| Christian Louboutin | Fever Flat Leopard Genuine Calf Hair Boot          |         1595 |   |   |
+| Christian Louboutin | Mayerswing Donna Snakeskin Embossed Boot           |         1595 |   |   |
+| Christian Louboutin | Stage Faux Calf Hair Boot                          |         1595 |   |   |
+| Christian Louboutin | Stage Platform Chelsea Boot                        |         1595 |   |   |
+| Prada               | Monolith Mini Bag Lug Sole Combat Boot             |         1580 |   |   |
+| Prada               | Monolith Mini Bag Lug Sole Combat Boot             |         1580 |   |   |
+| Marsèll             | Zuccone Boot                                       |         1498 |   |   |
+| Christian Louboutin | Mayerswing Donna Boot                              |         1495 |   |   |
+| AMIRI               | Lug Sole Combat Boot                               |         1490 |   |   |
+| Christian Louboutin | Melon Spike Chelsea Boot                           |         1445 |   |   |
+| Givenchy            | Lock Boot                                          |         1395 |   |   |
+| JM WESTON           | Chelsea Boot                                       |         1390 |   |   |
+| AMIRI               | Bandana Strap Ankle Boot                           |         1390 |   |   |
+| Dries Van Noten     | Chelsea Boot                                       |         1385 |   |   |
+| Givenchy            | Terra 4G Buckle Faux Shearling Lined Combat Boot   |         1350 |   |   |
+| Maison Margiela     | Bianchetto Tabi Boot                               |         1315 |   |   |
+| Christian Louboutin | Valido Ankle Boot                                  |         1295 |   |   |
+| Christian Louboutin | Our Georges Moc Toe Boot                           |         1295 |   |   |
+| Christian Louboutin | Fever Ankle Boot                                   |         1295 |   |   |
+| JM WESTON           | Golf Montant Lace-Up Boot                          |         1275 |   |   |
+| Valentino           | Garavini Roman Stud Ankle Boot                     |         1270 |   |   |
+| Valentino Garavani  | Trackstud Combat Boot                              |         1270 |   |   |
+| Givenchy            | Show Chelsea Boot                                  |         1250 |   |   |
+| Bottega Veneta      | Clear Sole Chelsea Boot                            |         1250 |   |   |
+| Gucci               | Horsebit Genuine Shearling Lined Quilted Snow Boot |         1250 |   |   |
+| Prada               | Chocolate Combat Boot                              |         1250 |   |   |
+| Church's            | Coalport Derby Boot                                |         1250 |   |   |
+| Christian Louboutin | Alpinono Chelsea Boot                              |         1245 |   |   |
+| MM6 Maison Margiela | Maison Margiela Tabi Split Toe Boot                |         1220 |   |   |
+| Bottega Veneta      | Tire Chelsea Boot                                  |         1200 |   |   |
+| Givenchy            | Terra 4G Buckle Combat Boot                        |         1195 |   |   |
+| Brunello Cucinelli  | Lace-Up Boot                                       |         1195 |   |   |
+| Givenchy            | Show Chelsea Boot                                  |         1195 |   |   |
+| Saint Laurent       | Dixon Ankle Boot                                   |         1195 |   |   |
+| Saint Laurent       | Vassili 60 Boot                                    |         1195 |   |   |
+| Marsèll             | Dentolone Boot                                     |         1190 |   |   |
+| Prada               | Cloudburst Thunder Boot                            |         1170 |   |   |
+| Alexander McQueen   | Tread Slick Lite Boot                              |         1150 |   |   |
+| Prada               | Piuma Drawcord Snow Boot                           |         1150 |   |   |
+| Prada               | Monolith Lug Sole Chelsea Boot                     |         1150 |   |   |
+| Salvatore Ferragamo | Naval Gancio Boot                                  |         1150 |   |   |
+| Versace             | Greca Rhegis Duck Boot                             |         1125 |   |   |
+| ZEGNA               | Vienna Suede Chelsea Boot                          |         1100 |   |   |
+| Bottega Veneta      | The Bounce Brushed Calfskin Leather Boot           |         1100 |   |   |
+| Bottega Veneta      | The Bounce Chelsea Boot                            |         1100 |   |   |
+| Thom Browne         | Classic Wingtip Boot                               |         1100 |   |   |
+| Bottega Veneta      | Tire Chukka Boot                                   |         1100 |   |   |
+| Christian Louboutin | Motok Chelsea Boot                                 |         1095 |   |   |
+| Saint Laurent       | Vassili Zip Boot                                   |         1095 |   |   |
+| Christian Louboutin | Motok Chelsea Boot                                 |         1095 |   |   |
+| Thom Browne         | 4-Bar Leather Chelsea Boot                         |         1090 |   |   |
+| Burberry            | Tor Genuine Shearling Lined Hiking Boot            |         1050 |   |   |
+| Burberry            | Arthur TB Monogram Hiking Boot                     |         1050 |   |   |
+| Balenciaga          | Tractor Chelsea Boot                               |         1050 |   |   |
+| Off-White           | Sponge Sole Boot                                   |         1045 |   |   |
+| Balenciaga          | Strike Plain Toe Boot                              |          995 |   |   |
+| Church's            | Prenton Chelsea Boot                               |          995 |   |   |
+| Fear of God         | Wrapped Chelsea Boot                               |          995 |   |   |
+| Saint Laurent       | Wyatt Zip Boot                                     |          995 |   |   |
+| Ike Behar           | Cruiser Double Monk Strap Boot                     |          995 |   |   |
+| Bottega Veneta      | Puddle Bomber Boot                                 |          990 |   |   |
+| Burberry            | Arthur Hiking Boot                                 |          990 |   |   |
+| Gucci               | Romance Hiking Boot                                |          980 |   |   |
+| Gucci               | Romance GG Rhombus Lace-Up Boot                    |          980 |   |   |
+| Valentino           | Garavani VLTN Strap Chelsea Boot                   |          980 |   |   |
+| Gucci               | Romance GG Rhombus Lace-Up Boot                    |          980 |   |   |
+| Gucci               | Romance Logo Boot                                  |          980 |   |   |
+| Alexander McQueen   | Worker Chelsea Boot                                |          950 |   |   |
+| Prada               | Toblach Chelsea Boot                               |          950 |   |   |
+| Alexander McQueen   | Worker Boot                                        |          950 |   |   |
+| Saint Laurent       | Wyatt Chelsea Boot                                 |          945 |   |   |
+| Saint Laurent       | Wyatt Chelsea Boot                                 |          945 |   |   |
+| Saint Laurent       | Wyatt Chelsea Boot                                 |          945 |   |   |
+| Givenchy            | Winter Mallow Ankle Boot                           |          925 |   |   |
+| Off-White           | Sponge Sole Hiking Boot                            |          900 |   |   |
+| Brunello Cucinelli  | Desert Boot                                        |          895 |   |   |
+| Fear of God         | Boat Lace-Up Boot                                  |          895 |   |   |
+| AMIRI               | Chelsea Boot                                       |          890 |   |   |
+| Burberry            | Allostock Check Chelsea Boot                       |          890 |   |   |
+| Thom Browne         | 4-Bar Chelsea Boot                                 |          890 |   |   |
+| K.NGSLEY            | Clandestine Combat Boot                            |          890 |   |   |
+| Raf Simons Runner   | Cycloid-4 Sneaker                                  |          880 |   |   |
+| Raf Simons Runner   | Cycloid-4 Sneaker                                  |          880 |   |   |
+| Santoni             | Destroy Plain Toe Boot                             |          850 |   |   |
+| Santoni             | Designs Chelsea Boot                               |          850 |   |   |
+| Santoni             | Decimals Plain Toe Boot                            |          850 |   |   |
+| Santoni             | Dethrone Genuine Shearling Lined Moc Toe Boot      |          850 |   |   |
+| Alden               | U-Tip Moc Stitch Boot                              |          845 |   |   |
+| Burberry            | Runway Ankle Boot                                  |          830 |   |   |
+| Moncler             | Lir Chelsea Boot                                   |          825 |   |   |
+| Alden               | Straight Tip Blucher Boot                          |          810 |   |   |
+| Fear of God         | Duck Boot                                          |          795 |   |   |
+| Santoni             | Boniface Chelsea Boot                              |          795 |   |   |
+| Alexander McQueen   | Tread Slick Chelsea Boot                           |          790 |   |   |
+| Prada               | Chelsea Boot                                       |          775 |   |   |
+| Alexander McQueen   | Cap Toe Boot                                       |          750 |   |   |
+| Santoni             | Detoxify Chelsea Boot                              |          750 |   |   |
+| Moncler             | Mon Corp Logo Lace-Up Boot                         |          750 |   |   |
+| Acne Studios        | Boot                                               |          700 |   |   |
+| Raf Simons Runner   | Solaris High Boot                                  |          700 |   |   |
+| John Varvatos       | Eldridge Harness Boot                              |          698 |   |   |
+| Salvatore Ferragamo | Montgomery Desert Boot                             |          695 |   |   |
+| Santoni             | Bulkhead Chelsea Boot                              |          695 |   |   |
+| Moncler             | Glacier Waterproof Hiking Boot                     |          695 |   |   |
+| Bottega Veneta      | Puddle Waterproof Chelsea Rain Boot                |          690 |   |   |
+| John Galliano Paris | Gazette Print Combat Boot                          |          690 |   |   |
+| Alexander McQueen   | Combat Boot                                        |          690 |   |   |
+| Bottega Veneta      | Puddle Waterproof Chelsea Rain Boot                |          690 |   |   |
+| Bottega Veneta      | Puddle Waterproof Chelsea Rain Boot                |          650 |   |   |
+| Santoni             | Desktop Chukka Boot                                |          650 |   |   |
+| Paul Stuart         | Mansfield Chelsea Boot                             |          650 |   |   |
+| John Galliano Paris | John Gallioano Combat Boot                         |          650 |   |   |
+| Alexander McQueen   | Platform Chelsea Boot                              |          650 |   |   |
+| Bottega Veneta      | Stride Waterproof Rain Boot                        |          650 |   |   |
+| Alden               | Indy Commando Water Resistant Boot                 |          649 |   |   |
+| PARABOOT            | Avoriaz Boot                                       |          644 |   |   |
+| Alden               | Makeup Chukka Boot                                 |          610 |   |   |
+| Alden               | Chukka Boot                                        |          605 |   |   |
+| Bode                | Greco Genuine Shearling Pull-On Boot               |          590 |   |   |
+| Moncler             | Summus Belted Snow Boot                            |          575 |   |   |
+| Common Projects     | Suede Chukka Boot                                  |          552 |   |   |
+| Premiata            | Mase Hiking Boot                                   |          520 |   |   |
+| To Boot New York    | Tempo Cap Toe Boot                                 |          495 |   |   |
+| To Boot New York    | Wimberley Boot                                     |          495 |   |   |
+| Allen Edmonds       | Himalaya Zip Boot                                  |          495 |   |   |
+| Allen Edmonds       | Lombard Cap Toe Chelsea Boot                       |          495 |   |   |
+| Allen Edmonds       | Lombard Chelsea Boot                               |          495 |   |   |
+| Allen Edmonds       | Dalton Weatherproof Wingtip Derby Boot             |          495 |   |   |
+| Allen Edmonds       | Liverpool Chelsea Boot                             |          495 |   |   |
+| Allen Edmonds       | Lombard Cap Toe Chelsea Boot                       |          495 |   |   |
+| Allen Edmonds       | Dalton Weatherproof Wingtip Boot                   |          495 |   |   |
+| To Boot New York    | Wimberley Boot                                     |          495 |   |   |
+| To Boot New York    | Wimberley Boot                                     |          495 |   |   |
+| Allen Edmonds       | Dalton Wingtip Boot                                |          475 |   |   |
+| Allen Edmonds       | Dalton Wingtip Boot                                |          475 |   |   |
+| Allen Edmonds       | Dalton Wingtip Boot                                |          475 |   |   |
+| Allen Edmonds       | Dalton Wingtip Boot                                |          475 |   |   |
+| Allen Edmonds       | Dalton Wingtip Boot                                |          475 |   |   |
+| Allen Edmonds       | Dalton Wingtip Boot                                |          475 |   |   |
+| Allen Edmonds       | Dalton Wingtip Boot                                |          475 |   |   |
+| Ross & Snow         | Monte Water Resistant Genuine Shearling Boot       |          475 |   |   |
+| Allen Edmonds       | Dalton Wingtip Boot                                |          475 |   |   |
+| Allen Edmonds       | Dalton Wingtip Boot                                |          475 |   |   |
+| Allen Edmonds       | Dalton Wingtip Boot                                |          475 |   |   |
+| Bruno Magli         | Hollis Cap Toe Boot                                |          475 |   |   |
+| Bruno Magli         | Hollis Cap Toe Boot                                |          475 |   |   |
+| Allen Edmonds       | Dalton Wingtip Boot                                |          475 |   |   |
+| Allen Edmonds       | Dalton Wingtip Boot                                |          475 |   |   |
+| Bruno Magli         | Angiolini Zip Boot                                 |          475 |   |   |
+| Allen Edmonds       | Dalton Wingtip Boot                                |          475 |   |   |
+| Allen Edmonds       | Dalton Wingtip Boot                                |          475 |   |   |
+| Allen Edmonds       | Dalton Wingtip Boot                                |          475 |   |   |
+| Allen Edmonds       | Dalton Wingtip Boot                                |          475 |   |   |
+| Bruno Magli         | Angiolini Zip Boot                                 |          475 |   |   |
+| Allen Edmonds       | Dalton Wingtip Boot                                |          475 |   |   |
+| Allen Edmonds       | Dalton Wingtip Boot                                |          475 |   |   |
+| Allen Edmonds       | Dalton Wingtip Boot                                |          475 |   |   |
+| Allen Edmonds       | Dalton Wingtip Boot                                |          475 |   |   |
+| Allen Edmonds       | Dalton Wingtip Boot                                |          475 |   |   |
+| Allen Edmonds       | Dalton Wingtip Boot                                |          475 |   |   |
+| Allen Edmonds       | Dalton Wingtip Boot                                |          475 |   |   |
+| Allen Edmonds       | Dalton Wingtip Boot                                |          475 |   |   |
+| Mezlan              | Lace-Up Chelsea Boot                               |          475 |   |   |
+| To Boot New York    | Rondo Boot                                         |          475 |   |   |
+| Burberry            | Flinton Check Waterproof Rain Boot                 |          450 |   |   |
+| Gordon Rush         | Max Wingtip Boot                                   |          450 |   |   |
+| Belstaff            | Trooper Plain Toe Boot                             |          450 |   |   |
+| Belstaff            | Marshall Plain Toe Boot                            |          450 |   |   |
+| Magnanni            | Bodhi Boot                                         |          450 |   |   |
+| Mezlan              | Buckle Strap Boot                                  |          450 |   |   |
+| To Boot New York    | Ivan Water Resistant Boot                          |          450 |   |   |
+| To Boot New York    | Burkett Cap Toe Boot                               |          450 |   |   |
+| Mephisto            | Pitt Mid Lace-Up Boot                              |          449 |   |   |
+| Mephisto            | Pitt Mid Lace-Up Boot                              |          449 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Waterproof Chukka Boot            |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Chukka Boot                       |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Waterproof Chukka Boot            |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Waterproof Chukka Boot            |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Chukka Boot                       |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Waterproof Chukka Boot            |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Waterproof Chukka Boot            |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Waterproof Chukka Boot            |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Waterproof Chukka Boot            |          445 |   |   |
+| Allen Edmonds       | Park City Waterproof Boot                          |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Waterproof Chukka Boot            |          445 |   |   |
+| Allen Edmonds       | Chapman Plain Toe Boot                             |          445 |   |   |
+| Allen Edmonds       | Chapman Plain Toe Boot                             |          445 |   |   |
+| Allen Edmonds       | Chapman Plain Toe Boot                             |          445 |   |   |
+| Allen Edmonds       | Chapman Plain Toe Boot                             |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Chapman Plain Toe Boot                             |          445 |   |   |
+| Allen Edmonds       | Chapman Plain Toe Boot                             |          445 |   |   |
+| Allen Edmonds       | Chapman Plain Toe Boot                             |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Chapman Plain Toe Boot                             |          445 |   |   |
+| Allen Edmonds       | Chapman Plain Toe Boot                             |          445 |   |   |
+| Allen Edmonds       | Park City Waterproof Boot                          |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Chukka Boot                       |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Chapman Plain Toe Boot                             |          445 |   |   |
+| Allen Edmonds       | Chapman Plain Toe Boot                             |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Chapman Plain Toe Boot                             |          445 |   |   |
+| Allen Edmonds       | Park City Waterproof Boot                          |          445 |   |   |
+| Allen Edmonds       | Chapman Plain Toe Boot                             |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Chapman Plain Toe Boot                             |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Chapman Plain Toe Boot                             |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Chapman Plain Toe Boot                             |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Chapman Plain Toe Boot                             |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Waterproof Chukka Boot            |          445 |   |   |
+| Allen Edmonds       | Park City Waterproof Boot                          |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Waterproof Chukka Boot            |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Waterproof Chukka Boot            |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Waterproof Chukka Boot            |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Waterproof Chukka Boot            |          445 |   |   |
+| Allen Edmonds       | Park City Waterproof Boot                          |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Waterproof Chukka Boot            |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Chukka Boot                       |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Waterproof Chukka Boot            |          445 |   |   |
+| Allen Edmonds       | Park City Waterproof Boot                          |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Waterproof Chukka Boot            |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Chukka Boot                       |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Waterproof Chukka Boot            |          445 |   |   |
+| Allen Edmonds       | Chapman Plain Toe Boot                             |          445 |   |   |
+| Allen Edmonds       | Park City Waterproof Boot                          |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Chapman Plain Toe Boot                             |          445 |   |   |
+| Allen Edmonds       | Chapman Plain Toe Boot                             |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Chapman Plain Toe Boot                             |          445 |   |   |
+| Allen Edmonds       | Discovery Zip Boot                                 |          445 |   |   |
+| Allen Edmonds       | Park City Waterproof Boot                          |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Chapman Plain Toe Boot                             |          445 |   |   |
+| Allen Edmonds       | Freeport Apron Toe Boot                            |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Landon Lace-Up Cap Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Weatherproof Plain Toe Boot                |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Landon Lace-Up Cap Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Park City Waterproof Boot                          |          445 |   |   |
+| Allen Edmonds       | Park City Waterproof Boot                          |          445 |   |   |
+| Allen Edmonds       | Park City Waterproof Boot                          |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Chukka Boot                       |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Park City Waterproof Boot                          |          445 |   |   |
+| Allen Edmonds       | Park City Waterproof Boot                          |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Chukka Boot                       |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Park City Waterproof Boot                          |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Park City Waterproof Boot                          |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Park City Waterproof Boot                          |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Chukka Boot                       |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Park City Waterproof Boot                          |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Park City Waterproof Boot                          |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Chukka Boot                       |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Park City Waterproof Boot                          |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Park City Waterproof Boot                          |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Chukka Boot                       |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Chukka Boot                       |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Chukka Boot                       |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Chukka Boot                       |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Park City Waterproof Boot                          |          445 |   |   |
+| Allen Edmonds       | Park City Waterproof Boot                          |          445 |   |   |
+| Allen Edmonds       | Park City Waterproof Boot                          |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Chukka Boot                       |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Chukka Boot                       |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Park City Waterproof Boot                          |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Park City Waterproof Boot                          |          445 |   |   |
+| Allen Edmonds       | Park City Waterproof Boot                          |          445 |   |   |
+| Allen Edmonds       | Park City Waterproof Boot                          |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Chukka Boot                       |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Park City Waterproof Boot                          |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Chukka Boot                       |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Chukka Boot                       |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Park City Waterproof Boot                          |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Park City Waterproof Boot                          |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Park City Waterproof Boot                          |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Park City Waterproof Boot                          |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Park City Waterproof Boot                          |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Park City Waterproof Boot                          |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Park City Waterproof Boot                          |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Park City Waterproof Boot                          |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Chukka Boot                       |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Chukka Boot                       |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Chukka Boot                       |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Chukka Boot                       |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Chukka Boot                       |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Chukka Boot                       |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Park City Waterproof Boot                          |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Chukka Boot                       |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Chukka Boot                       |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Park City Waterproof Boot                          |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Patton Boot                                        |          445 |   |   |
+| Allen Edmonds       | Park City Waterproof Boot                          |          445 |   |   |
+| Allen Edmonds       | Landon Lace-Up Cap Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Chapman Wingtip Boot                               |          445 |   |   |
+| Allen Edmonds       | Williamsburg Chukka Boot                           |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Hamilton Wingtip Chukka Boot                       |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
+| Allen Edmonds       | Higgins Mill Plain Toe Boot                        |          445 |   |   |
