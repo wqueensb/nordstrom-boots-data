@@ -3,3 +3,506 @@ select PRODUCT_NAME,BRAND, REVIEW_RATING AS BOOT_RATINGS
 from nordstrom-349200.Nordstrom_shoes.Nordstrom_boots
 Where REVIEW_RATING >= 4.0
 ORDER BY REVIEW_RATING DESC
+
+| PRODUCT_NAME                                                  | BRAND               | BOOT_RATINGS |   |   |
+|---------------------------------------------------------------|---------------------|--------------|---|---|
+| Kaha Low GTX Sneaker                                          | HOKA ONE ONE        |            4 |   |   |
+| Zuccone Boot                                                  | Marsèll             |            4 |   |   |
+| Markham Zip Boot                                              | Belstaff            |            4 |   |   |
+| Romance GG Rhombus Lace-Up Boot                               | Gucci               |            4 |   |   |
+| Angiolini Zip Boot                                            | Bruno Magli         |            4 |   |   |
+| Angiolini Zip Boot                                            | Bruno Magli         |            4 |   |   |
+| Chukka Boot                                                   | Alden               |            4 |   |   |
+| Pilot Chukka Boot                                             | Naot                |            4 |   |   |
+| Johnny Boot                                                   | Spring Step         |            4 |   |   |
+| Navi Chukka Boot                                              | TOMS                |            4 |   |   |
+| Detroit Water Resistant Chukka Boot                           | Hush Puppies®       |            4 |   |   |
+| Sauvie Waterproof Chelsea Boot                                | Bogs                |            4 |   |   |
+| Ankeny II Waterproof Boot                                     | SOREL               |            4 |   |   |
+| Cheyanne II Insulated Waterpoof Boot                          | SOREL               |            4 |   |   |
+| Madson II Chelsea Waterproof Boot                             | SOREL               |            4 |   |   |
+| Hillmont Chelsea Boot                                         | UGG®                |            4 |   |   |
+| Noah Waterproof Lace-Up Boot                                  | Blondo              |            4 |   |   |
+| Noah Waterproof Lace-Up Boot                                  | Blondo              |            4 |   |   |
+| Pix Combat Boot                                               | Camper              |            4 |   |   |
+| Original Refined Waterproof Chelsea Boot                      | Hunter              |            4 |   |   |
+| Gold Cup Authentic Original Lug Chukka                        | Sperry              |            4 |   |   |
+| Watertown Waterproof Duck Boot                                | Sperry              |            4 |   |   |
+| Saltwater Duck Waterproof Rain Boot                           | Sperry              |            4 |   |   |
+| Desert Coal Chukka Boot                                       | Clarks®             |            4 |   |   |
+| Desert Coal Chukka Boot                                       | Clarks®             |            4 |   |   |
+| Desert Coal Chukka Boot                                       | Clarks®             |            4 |   |   |
+| Desert Coal Chukka Boot                                       | Clarks®             |            4 |   |   |
+| Wallabee 2 Chukka Boot                                        | Clarks®             |            4 |   |   |
+| Rugged Bucks II Waterproof Plain Toe Boot                     | Rockport            |            4 |   |   |
+| Discovery Chelsea Boot                                        | Allen Edmonds       |            4 |   |   |
+| 1000 Mile Evans Boot                                          | Wolverine           |          4.5 |   |   |
+| Chelsea Boot                                                  | Prada               |          4.5 |   |   |
+| 'Midtown' Zip Boot                                            | Florsheim           |          4.5 |   |   |
+| UA Charged Bandit Trek 2 Hiking Shoes                         | Under Armour        |          4.5 |   |   |
+| UA Charged Bandit Trek 2 Hiking Shoes                         | Under Armour        |          4.5 |   |   |
+| Maslon Chukka Boot                                            | SeaVees             |          4.5 |   |   |
+| Nalukai Boot                                                  | OluKai              |          4.5 |   |   |
+| 'Harken' Leather Chukka Boot                                  | Steve Madden        |          4.5 |   |   |
+| Grandview GTX Hiking Boot                                     | Teva                |          4.5 |   |   |
+| Classic High Waterproof Boot                                  | Bogs                |          4.5 |   |   |
+| 'Classic Ultra' Mid High Rain Boot                            | Bogs                |          4.5 |   |   |
+| Turn Gore-Tex® Waterproof Chukka Boot                         | ECCO                |          4.5 |   |   |
+| Turn Gore-Tex® Waterproof Chukka Boot                         | ECCO                |          4.5 |   |   |
+| Turn Gore-Tex® Waterproof Chukka Boot                         | ECCO                |          4.5 |   |   |
+| Turn Gore-Tex® Waterproof Chukka Boot                         | ECCO                |          4.5 |   |   |
+| Turn Gore-Tex® Waterproof Chukka Boot                         | ECCO                |          4.5 |   |   |
+| Turn Gore-Tex® Waterproof Chukka Boot                         | ECCO                |          4.5 |   |   |
+| Turn Gore-Tex® Waterproof Chukka Boot                         | ECCO                |          4.5 |   |   |
+| Targhee EXP Mid Waterproof Hiking Boot                        | KEEN                |          4.5 |   |   |
+| Targhee II Mid Hiking Waterproof Boot                         | KEEN                |          4.5 |   |   |
+| Plano Cowboy Boot                                             | Ariat               |          4.5 |   |   |
+| Kezar Waterproof Chukka Boot                                  | SOREL               |          4.5 |   |   |
+| Madson II Waterproof Chukka Boot                              | SOREL               |          4.5 |   |   |
+| Madson II Waterproof Chukka Boot                              | SOREL               |          4.5 |   |   |
+| Madson II Waterproof Chukka Boot                              | SOREL               |          4.5 |   |   |
+| Madson II Waterproof Chukka Boot                              | SOREL               |          4.5 |   |   |
+| Madson II Waterproof Chukka Boot                              | SOREL               |          4.5 |   |   |
+| Gatson Waterproof Boot                                        | UGG®                |          4.5 |   |   |
+| Classic Water Repellent Short Boot                            | UGG®                |          4.5 |   |   |
+| Grant Waterproof Chelsea Boot                                 | Blondo              |          4.5 |   |   |
+| Grant Waterproof Chelsea Boot                                 | Blondo              |          4.5 |   |   |
+| Grant Waterproof Chelsea Boot                                 | Blondo              |          4.5 |   |   |
+| Brutus Sneaker Boot                                           | Camper              |          4.5 |   |   |
+| Original Play Waterproof Rain Boot                            | Hunter              |          4.5 |   |   |
+| Terrex Swift R3 Mid Waterproof Hiking Boot                    | adidas              |          4.5 |   |   |
+| Originals 'Desert' Boot                                       | Clarks®             |          4.5 |   |   |
+| Newton Ridge™ Plus II Waterproof Hiking Boot                  | Columbia            |          4.5 |   |   |
+| Newton Ridge™ Plus II Waterproof Hiking Boot                  | Columbia            |          4.5 |   |   |
+| Newton Ridge™ Plus II Waterproof Hiking Boot                  | Columbia            |          4.5 |   |   |
+| Newton Ridge™ Plus II Waterproof Hiking Boot                  | Columbia            |          4.5 |   |   |
+| Newton Ridge™ Plus II Waterproof Hiking Boot                  | Columbia            |          4.5 |   |   |
+| Newton Ridge™ Plus II Waterproof Hiking Boot                  | Columbia            |          4.5 |   |   |
+| Newton Ridge™ Plus II Waterproof Hiking Boot                  | Columbia            |          4.5 |   |   |
+| Newton Ridge™ Plus II Waterproof Hiking Boot                  | Columbia            |          4.5 |   |   |
+| Newton Ridge™ Plus II Waterproof Hiking Boot                  | Columbia            |          4.5 |   |   |
+| Newton Ridge™ Plus II Waterproof Hiking Boot                  | Columbia            |          4.5 |   |   |
+| Newton Ridge™ Plus II Waterproof Hiking Boot                  | Columbia            |          4.5 |   |   |
+| Newton Ridge™ Plus II Waterproof Hiking Boot                  | Columbia            |          4.5 |   |   |
+| Newton Ridge™ Plus II Waterproof Hiking Boot                  | Columbia            |          4.5 |   |   |
+| Newton Ridge™ Plus II Waterproof Hiking Boot                  | Columbia            |          4.5 |   |   |
+| Newton Ridge™ Plus II Waterproof Hiking Boot                  | Columbia            |          4.5 |   |   |
+| Newton Ridge™ Plus II Waterproof Hiking Boot                  | Columbia            |          4.5 |   |   |
+| Newton Ridge™ Plus II Waterproof Hiking Boot                  | Columbia            |          4.5 |   |   |
+| Newton Ridge™ Plus II Waterproof Hiking Boot                  | Columbia            |          4.5 |   |   |
+| Newton Ridge™ Plus II Waterproof Hiking Boot                  | Columbia            |          4.5 |   |   |
+| Newton Ridge™ Plus II Waterproof Hiking Boot                  | Columbia            |          4.5 |   |   |
+| Newton Ridge™ Plus II Waterproof Hiking Boot                  | Columbia            |          4.5 |   |   |
+| Newton Ridge™ Plus II Waterproof Hiking Boot                  | Columbia            |          4.5 |   |   |
+| Newton Ridge™ Plus II Waterproof Hiking Boot                  | Columbia            |          4.5 |   |   |
+| Newton Ridge™ Plus II Waterproof Hiking Boot                  | Columbia            |          4.5 |   |   |
+| Newton Ridge™ Plus II Waterproof Hiking Boot                  | Columbia            |          4.5 |   |   |
+| Newton Ridge™ Plus II Waterproof Hiking Boot                  | Columbia            |          4.5 |   |   |
+| Newton Ridge™ Plus II Waterproof Hiking Boot                  | Columbia            |          4.5 |   |   |
+| Newton Ridge™ Plus II Waterproof Hiking Boot                  | Columbia            |          4.5 |   |   |
+| Newton Ridge™ Plus II Waterproof Hiking Boot                  | Columbia            |          4.5 |   |   |
+| Newton Ridge™ Plus II Waterproof Hiking Boot                  | Columbia            |          4.5 |   |   |
+| Newton Ridge™ Plus II Waterproof Hiking Boot                  | Columbia            |          4.5 |   |   |
+| Newton Ridge™ Plus II Waterproof Hiking Boot                  | Columbia            |          4.5 |   |   |
+| Newton Ridge™ Plus II Waterproof Hiking Boot                  | Columbia            |          4.5 |   |   |
+| Wesley Leather Lace-Up Boot                                   | Magnanni            |          4.5 |   |   |
+| Port Union Waterproof Chukka Boot                             | Timberland          |          4.5 |   |   |
+| '1460 Mono' Boot                                              | Dr. Martens         |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Higgins Mill Plain Toe Boot                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Patton Boot                                                   | Allen Edmonds       |          4.5 |   |   |
+| Chilkat IV Waterproof Boot                                    | The North Face      |          4.5 |   |   |
+| 'Copeland' Suede Chukka Boot                                  | Johnston & Murphy   |          4.5 |   |   |
+| Raleigh XC Flex Cap Toe Boot                                  | Johnston & Murphy   |          4.5 |   |   |
+| Chelsea Boot                                                  | Blundstone Footwear |          4.5 |   |   |
+| Pampa Hi Re-Craft Boot                                        | Palladium           |            5 |   |   |
+| Jenner Chukka Boot                                            | Steve Madden        |            5 |   |   |
+| Torrent Waterproof Duck Boot                                  | Wolverine           |            5 |   |   |
+| Weekly Combat Boot                                            | Dr. Scholl's        |            5 |   |   |
+| World Wide 1000 Mile Cap Toe Boot                             | Wolverine           |            5 |   |   |
+| Pitt Mid Lace-Up Boot                                         | Mephisto            |            5 |   |   |
+| Pitt Mid Lace-Up Boot                                         | Mephisto            |            5 |   |   |
+| Leonardo HydroProtect Waterproof Genuine Shearling Lined Boot | Mephisto            |            5 |   |   |
+| Our Georges Moc Toe Boot                                      | Christian Louboutin |            5 |   |   |
+| Pampa Hi Wax Boot                                             | Palladium           |            5 |   |   |
+| 'Daily Double' Chelsea Boot                                   | Eastland            |            5 |   |   |
+| Marson Water Resistant Chelsea Boot                           | Ted Baker London    |            5 |   |   |
+| Straight Tip Blucher Boot                                     | Alden               |            5 |   |   |
+| Garison Lace-Up Boot                                          | Warfield & Grand    |            5 |   |   |
+| Marshal Lace-Up Boot                                          | Warfield & Grand    |            5 |   |   |
+| Battery Lace-Up Boot                                          | Warfield & Grand    |            5 |   |   |
+| Harley Chelsea Boot                                           | AllSaints           |            5 |   |   |
+| Lartigue Zip Boot                                             | Robert Graham       |            5 |   |   |
+| U-Tip Moc Stitch Boot                                         | Alden               |            5 |   |   |
+| Vanguard Chelsea Boot                                         | Mezlan              |            5 |   |   |
+| Detoxify Chelsea Boot                                         | Santoni             |            5 |   |   |
+| Mon Corp Logo Lace-Up Boot                                    | Moncler             |            5 |   |   |
+| Cozy Vibe Primo Mid Boot                                      | Sanuk               |            5 |   |   |
+| Sampson Chukka Boot                                           | Børn                |            5 |   |   |
+| Williams Boot                                                 | Gordon Rush         |            5 |   |   |
+| Combat Boot                                                   | Alexander McQueen   |            5 |   |   |
+| Melon Spike Chelsea Boot                                      | Christian Louboutin |            5 |   |   |
+| Kalia Puki Chukka Boot                                        | OluKai              |            5 |   |   |
+| Romance Logo Boot                                             | Gucci               |            5 |   |   |
+| The Ultralight Hiking Boot                                    | Season Three        |            5 |   |   |
+| Shawn Chelsea Boot                                            | To Boot New York    |            5 |   |   |
+| Shawn Chelsea Boot                                            | To Boot New York    |            5 |   |   |
+| Hollis Cap Toe Boot                                           | Bruno Magli         |            5 |   |   |
+| Rondo Boot                                                    | To Boot New York    |            5 |   |   |
+| Hollis Cap Toe Boot                                           | Bruno Magli         |            5 |   |   |
+| Karmelo Chelsea Boot                                          | ALDO                |            5 |   |   |
+| Hayes Waterproof Hiking Boot                                  | Spyder              |            5 |   |   |
+| 4-Bar Chelsea Boot                                            | Thom Browne         |            5 |   |   |
+| Boniface Chelsea Boot                                         | Santoni             |            5 |   |   |
+| Chiltern Waterproof Boot                                      | Barbour             |            5 |   |   |
+| Sion Water Resistant Chukka Boot                              | Fly London          |            5 |   |   |
+| Ethan Mid Boot                                                | AllSaints           |            5 |   |   |
+| Naval Gancio Boot                                             | Salvatore Ferragamo |            5 |   |   |
+| Leedor Chelsea Boot                                           | Vince Camuto        |            5 |   |   |
+| Two Button Boot                                               | Minnetonka          |            5 |   |   |
+| Gasly Chelsea Boot                                            | Flexi               |            5 |   |   |
+| Original Driving Moc Chukka Boot                              | Twisted X           |            5 |   |   |
+| Water Resistant Chelsea Boot                                  | BP.                 |            5 |   |   |
+| Water Resistant Chelsea Boot                                  | BP.                 |            5 |   |   |
+| Water Resistant Chelsea Boot                                  | BP.                 |            5 |   |   |
+| Water Resistant Chelsea Boot                                  | BP.                 |            5 |   |   |
+| Water Resistant Chelsea Boot                                  | BP.                 |            5 |   |   |
+| Water Resistant Chelsea Boot                                  | BP.                 |            5 |   |   |
+| Water Resistant Chelsea Boot                                  | BP.                 |            5 |   |   |
+| Water Resistant Chelsea Boot                                  | BP.                 |            5 |   |   |
+| Water Resistant Chelsea Boot                                  | BP.                 |            5 |   |   |
+| Water Resistant Chelsea Boot                                  | BP.                 |            5 |   |   |
+| Water Resistant Chelsea Boot                                  | BP.                 |            5 |   |   |
+| Water Resistant Chelsea Boot                                  | BP.                 |            5 |   |   |
+| Water Resistant Chelsea Boot                                  | BP.                 |            5 |   |   |
+| Water Resistant Chelsea Boot                                  | BP.                 |            5 |   |   |
+| Water Resistant Chelsea Boot                                  | BP.                 |            5 |   |   |
+| Water Resistant Chelsea Boot                                  | BP.                 |            5 |   |   |
+| Water Resistant Chelsea Boot                                  | BP.                 |            5 |   |   |
+| Water Resistant Chelsea Boot                                  | BP.                 |            5 |   |   |
+| Water Resistant Chelsea Boot                                  | BP.                 |            5 |   |   |
+| Water Resistant Chelsea Boot                                  | BP.                 |            5 |   |   |
+| Water Resistant Chelsea Boot                                  | BP.                 |            5 |   |   |
+| Water Resistant Chelsea Boot                                  | BP.                 |            5 |   |   |
+| Classic Casual Waterproof Chelsea Boot                        | Bogs                |            5 |   |   |
+| MX Gore-Tex® Waterproof Hiking Boot                           | ECCO                |            5 |   |   |
+| Hyrid Gore-Tex® Waterproof Chukka Boot                        | ECCO                |            5 |   |   |
+| Hyrid Gore-Tex® Waterproof Chukka Boot                        | ECCO                |            5 |   |   |
+| CityTray Avant Boot                                           | ECCO                |            5 |   |   |
+| Targhee III Mid Waterproof Hiking Boot                        | KEEN                |            5 |   |   |
+| Targhee III Mid Waterproof Hiking Boot                        | KEEN                |            5 |   |   |
+| Targhee III Mid Waterproof Hiking Boot                        | KEEN                |            5 |   |   |
+| Targhee III Mid Waterproof Hiking Boot                        | KEEN                |            5 |   |   |
+| Targhee III Mid Waterproof Hiking Boot                        | KEEN                |            5 |   |   |
+| Targhee III Mid Waterproof Hiking Boot                        | KEEN                |            5 |   |   |
+| Targhee III Mid Waterproof Hiking Boot                        | KEEN                |            5 |   |   |
+| Targhee III Mid Waterproof Hiking Boot                        | KEEN                |            5 |   |   |
+| Targhee III Mid Waterproof Hiking Boot                        | KEEN                |            5 |   |   |
+| Targhee III Mid Waterproof Hiking Boot                        | KEEN                |            5 |   |   |
+| Targhee III Mid Waterproof Hiking Boot                        | KEEN                |            5 |   |   |
+| Targhee III Mid Waterproof Hiking Boot                        | KEEN                |            5 |   |   |
+| Targhee III Mid Waterproof Hiking Boot                        | KEEN                |            5 |   |   |
+| Targhee III Mid Waterproof Hiking Boot                        | KEEN                |            5 |   |   |
+| Targhee III Mid Waterproof Hiking Boot                        | KEEN                |            5 |   |   |
+| Targhee III Mid Waterproof Hiking Boot                        | KEEN                |            5 |   |   |
+| Targhee III Mid Waterproof Hiking Boot                        | KEEN                |            5 |   |   |
+| Targhee III Mid Waterproof Hiking Boot                        | KEEN                |            5 |   |   |
+| Targhee III Mid Waterproof Hiking Boot                        | KEEN                |            5 |   |   |
+| Targhee III Mid Waterproof Hiking Boot                        | KEEN                |            5 |   |   |
+| Targhee III Mid Waterproof Hiking Boot                        | KEEN                |            5 |   |   |
+| Targhee III Mid Waterproof Hiking Boot                        | KEEN                |            5 |   |   |
+| Targhee III Mid Waterproof Hiking Boot                        | KEEN                |            5 |   |   |
+| Targhee III Mid Waterproof Hiking Boot                        | KEEN                |            5 |   |   |
+| Targhee III Mid Waterproof Hiking Boot                        | KEEN                |            5 |   |   |
+| Targhee III Mid Waterproof Hiking Boot                        | KEEN                |            5 |   |   |
+| Targhee III Mid Waterproof Hiking Boot                        | KEEN                |            5 |   |   |
+| Targhee III Mid Waterproof Hiking Boot                        | KEEN                |            5 |   |   |
+| Targhee III Mid Waterproof Hiking Boot                        | KEEN                |            5 |   |   |
+| Targhee III Mid Waterproof Hiking Boot                        | KEEN                |            5 |   |   |
+| Targhee III Mid Waterproof Hiking Boot                        | KEEN                |            5 |   |   |
+| Targhee III Mid Waterproof Hiking Boot                        | KEEN                |            5 |   |   |
+| Targhee III Mid Waterproof Hiking Boot                        | KEEN                |            5 |   |   |
+| Targhee III Mid Waterproof Hiking Boot                        | KEEN                |            5 |   |   |
+| Targhee III Mid Waterproof Hiking Boot                        | KEEN                |            5 |   |   |
+| Recon Moc Toe Boot                                            | Ariat               |            5 |   |   |
+| Kezar Tall Waterproof Boot                                    | SOREL               |            5 |   |   |
+| Neumel Cozy Water Resistant Boot                              | UGG®                |            5 |   |   |
+| Neumel Weather II Waterproof Boot                             | UGG®                |            5 |   |   |
+| Stenton Water Repellent Leather Boot                          | UGG®                |            5 |   |   |
+| Dean Waterproof Plain Toe Boot                                | Blondo              |            5 |   |   |
+| Walden Chukka Gore-Tex® Waterproof Boot                       | Camper              |            5 |   |   |
+| Bill Chukka Boot                                              | Camper              |            5 |   |   |
+| Brutus Plaid Combat Boot                                      | Camper              |            5 |   |   |
+| Peu Cami Boot                                                 | Camper              |            5 |   |   |
+| Andres All Weather Water Resistant Boot                       | Nisolo              |            5 |   |   |
+| Andres All Weather Water Resistant Boot                       | Nisolo              |            5 |   |   |
+| Andres All Weather Water Resistant Boot                       | Nisolo              |            5 |   |   |
+| Andres All Weather Water Resistant Boot                       | Nisolo              |            5 |   |   |
+| Andres All Weather Water Resistant Boot                       | Nisolo              |            5 |   |   |
+| Andres All Weather Water Resistant Boot                       | Nisolo              |            5 |   |   |
+| Andres All Weather Water Resistant Boot                       | Nisolo              |            5 |   |   |
+| Andres All Weather Water Resistant Boot                       | Nisolo              |            5 |   |   |
+| Andres All Weather Water Resistant Boot                       | Nisolo              |            5 |   |   |
+| Andres All Weather Water Resistant Boot                       | Nisolo              |            5 |   |   |
+| Andres All Weather Water Resistant Boot                       | Nisolo              |            5 |   |   |
+| Andres All Weather Water Resistant Boot                       | Nisolo              |            5 |   |   |
+| Andres All Weather Water Resistant Boot                       | Nisolo              |            5 |   |   |
+| Andres All Weather Water Resistant Boot                       | Nisolo              |            5 |   |   |
+| Andres All Weather Water Resistant Boot                       | Nisolo              |            5 |   |   |
+| Andres All Weather Water Resistant Boot                       | Nisolo              |            5 |   |   |
+| Andres All Weather Water Resistant Boot                       | Nisolo              |            5 |   |   |
+| Andres All Weather Water Resistant Boot                       | Nisolo              |            5 |   |   |
+| Andres All Weather Water Resistant Boot                       | Nisolo              |            5 |   |   |
+| Andres All Weather Water Resistant Boot                       | Nisolo              |            5 |   |   |
+| Andres All Weather Water Resistant Boot                       | Nisolo              |            5 |   |   |
+| Andres All Weather Water Resistant Boot                       | Nisolo              |            5 |   |   |
+| Andres All Weather Water Resistant Boot                       | Nisolo              |            5 |   |   |
+| Andres All Weather Water Resistant Boot                       | Nisolo              |            5 |   |   |
+| Andres All Weather Water Resistant Boot                       | Nisolo              |            5 |   |   |
+| Andres All Weather Water Resistant Boot                       | Nisolo              |            5 |   |   |
+| Striper Storm Waterproof Boot                                 | Sperry              |            5 |   |   |
+| Watertown Waterproof Moc Toe Boot                             | Sperry              |            5 |   |   |
